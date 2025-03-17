@@ -49,7 +49,7 @@ A record class representing weather data with:
 - **Java Version:** Java 18+ (for enhanced switch and text blocks).
 - **Dependencies:** None (uses standard Java libraries).
 
-## Example Output
+## Sample Output
 ```
 Weather data loaded successfully!
 
